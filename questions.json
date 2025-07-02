@@ -1,0 +1,338 @@
+[
+  {
+    "question": "What is the capital of France?",
+    "options": ["Paris", "London", "Berlin", "Rome"],
+    "answer": "Paris",
+    "difficulty": "hard"
+  },
+  {
+    "question": "The Earth is flat.",
+    "options": ["True", "False"],
+    "answer": "False",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which language is used for styling web pages?",
+    "options": ["HTML", "JQuery", "CSS", "XML"],
+    "answer": "CSS",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Python is a...",
+    "options": ["Snake", "Programming Language", "Car", "Fruit"],
+    "answer": "Programming Language",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What is 2 + 2?",
+    "options": ["3", "4", "5", "6"],
+    "answer": "4",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is the capital of Germany?",
+    "options": ["Berlin", "Vienna", "Zurich", "Munich"],
+    "answer": "Berlin",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is the square root of 256?",
+    "options": ["14", "16", "18", "20"],
+    "answer": "16",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Who developed general relativity?",
+    "options": ["Newton", "Einstein", "Hawking", "Bohr"],
+    "answer": "Einstein",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What is the capital of France?",
+    "options": ["Paris", "Madrid", "Berlin", "Rome"],
+    "answer": "Paris",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Who painted the Mona Lisa?",
+    "options": ["Leonardo da Vinci", "Pablo Picasso", "Vincent van Gogh", "Claude Monet"],
+    "answer": "Leonardo da Vinci",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which planet is known as the Red Planet?",
+    "options": ["Earth", "Venus", "Mars", "Jupiter"],
+    "answer": "Mars",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is the boiling point of water at sea level?",
+    "options": ["90°C", "100°C", "110°C", "120°C"],
+    "answer": "100°C",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is the largest mammal in the world?",
+    "options": ["Elephant", "Blue Whale", "Giraffe", "Orca"],
+    "answer": "Blue Whale",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Who wrote 'Romeo and Juliet'?",
+    "options": ["William Shakespeare", "Mark Twain", "Charles Dickens", "Jane Austen"],
+    "answer": "William Shakespeare",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which element has the chemical symbol 'O'?",
+    "options": ["Oxygen", "Osmium", "Gold", "Silver"],
+    "answer": "Oxygen",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which ocean is the largest?",
+    "options": ["Atlantic", "Indian", "Pacific", "Arctic"],
+    "answer": "Pacific",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is the square root of 81?",
+    "options": ["9", "8", "7", "6"],
+    "answer": "9",
+    "difficulty": "easy"
+  },
+  {
+    "question": "How many continents are there?",
+    "options": ["5", "6", "7", "8"],
+    "answer": "7",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is the currency of Japan?",
+    "options": ["Yuan", "Won", "Yen", "Ringgit"],
+    "answer": "Yen",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which gas do plants absorb from the atmosphere?",
+    "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Hydrogen"],
+    "answer": "Carbon Dioxide",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What year did World War II end?",
+    "options": ["1943", "1944", "1945", "1946"],
+    "answer": "1945",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which country gifted the Statue of Liberty to the USA?",
+    "options": ["Germany", "France", "Italy", "Spain"],
+    "answer": "France",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is the hardest natural substance on Earth?",
+    "options": ["Gold", "Iron", "Diamond", "Quartz"],
+    "answer": "Diamond",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which planet has the most moons?",
+    "options": ["Earth", "Jupiter", "Saturn", "Mars"],
+    "answer": "Saturn",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What language has the most native speakers worldwide?",
+    "options": ["English", "Spanish", "Mandarin", "Hindi"],
+    "answer": "Mandarin",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which country is known as the Land of the Rising Sun?",
+    "options": ["China", "Japan", "Thailand", "Vietnam"],
+    "answer": "Japan",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is the smallest prime number?",
+    "options": ["0", "1", "2", "3"],
+    "answer": "2",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Who discovered penicillin?",
+    "options": ["Louis Pasteur", "Alexander Fleming", "Marie Curie", "Gregor Mendel"],
+    "answer": "Alexander Fleming",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is the chemical formula for table salt?",
+    "options": ["NaCl", "KCl", "CaCl2", "MgCl2"],
+    "answer": "NaCl",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What year did the Titanic sink?",
+    "options": ["1905", "1912", "1920", "1898"],
+    "answer": "1912",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which blood type is the universal donor?",
+    "options": ["O-", "A+", "AB+", "B-"],
+    "answer": "O-",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Who was the first person in space?",
+    "options": ["Neil Armstrong", "Buzz Aldrin", "Yuri Gagarin", "Alan Shepard"],
+    "answer": "Yuri Gagarin",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is the longest river in the world?",
+    "options": ["Amazon", "Nile", "Yangtze", "Mississippi"],
+    "answer": "Nile",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Who developed general relativity?",
+    "options": ["Newton", "Einstein", "Hawking", "Bohr"],
+    "answer": "Einstein",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What is the Heisenberg Uncertainty Principle related to?",
+    "options": ["Gravity", "Motion", "Position and Momentum", "Energy"],
+    "answer": "Position and Momentum",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What is the capital of Kazakhstan?",
+    "options": ["Almaty", "Astana", "Tashkent", "Bishkek"],
+    "answer": "Astana",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Who won the Nobel Prize in Literature in 2021?",
+    "options": ["Kazuo Ishiguro", "Annie Ernaux", "Abdulrazak Gurnah", "Bob Dylan"],
+    "answer": "Abdulrazak Gurnah",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Which particle is responsible for the Higgs field?",
+    "options": ["Photon", "Electron", "Gluon", "Higgs boson"],
+    "answer": "Higgs boson",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What year was the United Nations founded?",
+    "options": ["1919", "1939", "1945", "1950"],
+    "answer": "1945",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Which is the only country to have landed humans on the Moon?",
+    "options": ["Russia", "China", "USA", "India"],
+    "answer": "USA",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What is the term for animals that eat both plants and meat?",
+    "options": ["Herbivores", "Carnivores", "Omnivores", "Insectivores"],
+    "answer": "Omnivores",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What does DNA stand for?",
+    "options": ["Deoxyribonucleic Acid", "Dinucleic Acid", "Deoxynucleic Acid", "Double Helix Acid"],
+    "answer": "Deoxyribonucleic Acid",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Who is the Greek god of the sea?",
+    "options": ["Zeus", "Poseidon", "Hades", "Hermes"],
+    "answer": "Poseidon",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Which novel begins with the line 'Call me Ishmael'?",
+    "options": ["Moby-Dick", "The Old Man and the Sea", "Great Expectations", "Frankenstein"],
+    "answer": "Moby-Dick",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Which African country has the largest population?",
+    "options": ["Egypt", "South Africa", "Nigeria", "Ethiopia"],
+    "answer": "Nigeria",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What is the speed of light in vacuum?",
+    "options": ["300,000 km/s", "150,000 km/s", "1,000,000 km/s", "250,000 km/s"],
+    "answer": "300,000 km/s",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Which composer became deaf later in life but continued to compose?",
+    "options": ["Mozart", "Beethoven", "Bach", "Chopin"],
+    "answer": "Beethoven",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Who was the first female Prime Minister of the UK?",
+    "options": ["Theresa May", "Margaret Thatcher", "Elizabeth II", "Angela Merkel"],
+    "answer": "Margaret Thatcher",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What’s the term for a word that is spelled the same backward as forward?",
+    "options": ["Palindrome", "Anagram", "Homophone", "Oxymoron"],
+    "answer": "Palindrome",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is the largest internal organ in the human body?",
+    "options": ["Heart", "Liver", "Lung", "Kidney"],
+    "answer": "Liver",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which scientist proposed the three laws of motion?",
+    "options": ["Einstein", "Newton", "Galileo", "Faraday"],
+    "answer": "Newton",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What country has the most natural lakes?",
+    "options": ["Russia", "USA", "India", "Canada"],
+    "answer": "Canada",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Which Shakespeare play features the characters Rosencrantz and Guildenstern?",
+    "options": ["Hamlet", "Othello", "Macbeth", "King Lear"],
+    "answer": "Hamlet",
+    "difficulty": "hard"
+  },
+  {
+    "question": "In what year did the Berlin Wall fall?",
+    "options": ["1985", "1987", "1989", "1991"],
+    "answer": "1989",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Which desert is the largest in the world?",
+    "options": ["Sahara", "Gobi", "Antarctic", "Arctic"],
+    "answer": "Antarctic",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Which programming language is primarily used for iOS development?",
+    "options": ["Java", "Swift", "Kotlin", "C++"],
+    "answer": "Swift",
+    "difficulty": "medium"
+  }
+]
